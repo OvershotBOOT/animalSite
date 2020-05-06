@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+    background-color: rgba(219, 27, 65, 0.904);
+    margin: 5px 0px 10px;
+}
+
+.container {
+
+}
+
+.axolotlImage {
+    height: 25vh;
+    width: 20vw;
+}
