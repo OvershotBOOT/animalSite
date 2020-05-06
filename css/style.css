@@ -1,16 +1,14 @@
 body {
     margin: 0;
     text-align: center;
+    background-color: #20272F;
+    color: #eee;
 }
 
 header {
     text-align: center;
     background-color: rgba(219, 27, 65, 0.904);
     margin: 5px 0px 10px;
-}
-
-.container {
-
 }
 
 .axolotlImage {
